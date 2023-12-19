@@ -1,0 +1,107 @@
+@font-face {
+  font-family: "hacked";
+	src: url(/fonts/hacked.ttf);
+}
+
+
+@font-face {
+  font-family: "dos";
+	src: url(/fonts/dos.ttf);
+}
+
+@font-face {
+  font-family: "nova";
+	src: url(/fonts/NovaMono-Regular.ttf);
+}
+
+@font-face {
+  font-family: "pixel";
+	src: url(/fonts/pixel.ttf);
+}
+
+/* Base styling */
+body {
+    font-family: "nova", monospace; /* Consider using a cyberpunk-style font */
+    background-color: #0a0a0a; /* Dark background for a cyberpunk feel */
+    color: #c0c0c0; /* Light text color for contrast */
+    margin: 0 auto;
+    padding: 0 15px; /* Adds 15px padding to the left and right */
+    max-width: 500px;
+}
+
+a {
+    color: #39ff14; /* Neon green for links */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0099; /* Bright pink for hover state */
+    text-decoration: underline;
+}
+
+/* Header styling */
+header {
+    font-family: "hacked", sans-serif; /* Consider using a cyberpunk-style font */
+    background-color: #121212;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    color: #ff0099; /* Bright pink for main heading */
+    margin: 0;
+}
+
+header p {
+    color: #39ff14; /* Neon green for subtext */
+}
+
+/* Main content styling */
+main {
+    padding: 20px;
+}
+
+h2 {
+    font-family: "hacked", sans-serif; /* Consider using a cyberpunk-style font */
+    color: #00ffff; /* Cyan for secondary headings */
+}
+
+/* Link list styling */
+.link-list details {
+    font-family: "pixel";
+    background-color: #1c1c1c;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #333;
+}
+
+.link-list summary {
+    color: #ff6600; /* Bright orange for summaries */
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.link-list ul {
+    font-family: "pixel";
+    list-style-type: square;
+}
+
+.link-list li {
+    padding: 5px 0;
+}
+
+/* Footer styling */
+footer {
+    background-color: #121212;
+    color: #c0c0c0;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.centered-image img {
+    max-width: 100px;
+    max-height: 100px;
+    height: auto; /* This ensures the image maintains its aspect ratio */
+    display: block; /* Aligns the image properly within the div */
+    margin: 0 auto; /* Centers the image */
+}
