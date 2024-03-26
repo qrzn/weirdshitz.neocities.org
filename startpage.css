@@ -42,16 +42,6 @@ body {
     max-width: 80%;
 }
 
-a {
-    color: #39ff14; /* Neon green for links */
-    text-decoration: none;
-}
-
-a:hover {
-    color: #ff0099; /* Bright pink for hover state */
-    text-decoration: underline;
-}
-
 /* Sticky Header */
 header {
     position: -webkit-sticky; /* For Safari */
@@ -69,7 +59,7 @@ header {
 }
 
 header h1 {
-    color: #ff0099; /* Bright pink for main heading */
+    color: #ff71ce; /* Bright pink for main heading */
     margin: 0;
 }
 
@@ -125,7 +115,6 @@ h2 {
 /* Footer styling */
 footer {
     background-color: #121212;
-    color: #c0c0c0;
     text-align: center;
     padding: 20px 0;
 }
@@ -136,6 +125,11 @@ footer {
     z-index: 1000; /* Ensures it stays on top */
 }
 
+footer p {
+    color: #39ff14; /* Neon green for subtext */
+    font-family: "hacked", sans-serif; /* Consider using a cyberpunk-style font */
+}
+
 .centered-image img {
     max-width: 100px;
     max-height: 100px;
@@ -144,32 +138,43 @@ footer {
     margin: 0 auto; /* Centers the image */
 }
 
+.custom-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full height of the viewport */
+}
+
+.box {
+  width: 300px;
+  height: 200px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+  padding: 20px;
+}
+
 #typewriter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     width: 480px; /* Adjust the width as needed */
     height: 200px; /* Adjust the height as needed */
     overflow: hidden; /* Hide the overflow text */
     white-space: pre-wrap; /* To maintain spaces and line breaks */
-    border-right: 2px solid; /* Simulates the caret */
     font-family: 'pixel'; /* Typewriter font */
+    font-size: 200%;
     margin: auto; /* Center the div if needed */
     /* Add additional styling as needed */
-}
-
-/* Optional: Caret Blinking Effect */
-@keyframes blink-caret {
-    50% {
-        border-color: transparent;
-    }
-}
-#typewriter {
-    animation: blink-caret 1s step-end infinite;
 }
 
 .container {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #c0c0c0;
+    background-color: black;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -192,7 +197,7 @@ h1 {
 .column h2 {
     font-size: 18px;
     margin-bottom: 8px;
-    color: #333;
+    color: #ff71ce;
 }
 
 .column ul {
@@ -205,10 +210,11 @@ h1 {
 }
 
 .column ul li a {
+    color: #b967ff; /* Neon green for links */
     text-decoration: none;
-    color: #007bff;
     transition: color 0.3s;
 }
 
 .column ul li a:hover {
-    color: #0056b3;
+    color: #01cdfe; /* Bright pink for hover state */
+    text-decoration: underline;

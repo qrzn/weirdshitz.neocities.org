@@ -55,7 +55,7 @@ html, body {
 
 /* Base styling */
 body {
-    font-family: "unifraktur", serif; /* Consider using a cyberpunk-style font */
+    font-family: "cardinal", serif; /* Consider using a cyberpunk-style font */
     display: flex;
     flex-direction: column;
     background-image: url("https://sadhost.neocities.org/images/tiles/bgif023.gif");
@@ -163,6 +163,7 @@ table {
 
 table td, table th {
   border: none;
+  padding: 8px;
 }
 
 /* Footer styling */
