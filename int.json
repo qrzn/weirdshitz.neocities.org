@@ -1,0 +1,578 @@
+{
+    "666666": {
+        "name": "Qian (乾)",
+        "number": "01",
+        "meaning": "Meaning data not found in source",
+        "image": "The movement of heaven is full of power. Thus the superior man makes himself strong and untiring.",
+        "judgment": "The Creative works sublime success, furthering through perseverance.",
+        "description": "Above Qian, the Creative, Heaven / Below Qian, the Creative, Heaven",
+        "lines": "666666"
+    },
+    "666667": {
+        "name": "Kun (坤)",
+        "number": "02",
+        "meaning": "Meaning data not found in source",
+        "image": "Under heaven, wind: the image of coming to meet. Thus does the prince act when disseminating his commands and proclaiming them to the four quarters of the world.",
+        "judgment": "Coming to meet. The maiden is powerful. One should not marry such a maiden.",
+        "description": "above qian, the creative, heaven / below sun, the gentle, wind",
+        "lines": "666667"
+    },
+    "666676": {
+        "name": "Tun (屯)",
+        "number": "03",
+        "meaning": "Meaning data not found in source",
+        "image": "Heaven together with fire: the image of fellowship with men. Thus the superior man organizes the clans and makes distinctions between things.",
+        "judgment": "Fellowship with men in the open. Success. It furthers one to cross the great water. The perseverance of the superior man furthers.",
+        "description": "above qian, the creative, heaven / li, the clinging, flame",
+        "lines": "666676"
+    },
+    "666677": {
+        "name": "Meng (蒙)",
+        "number": "04",
+        "meaning": "Meaning data not found in source",
+        "image": "Mountain under heaven: the image of retreat. Thus the superior man keeps the inferior man at a distance, not angrily but with reserve.",
+        "judgment": "Retreat. Success. In what is small, perseverance furthers.",
+        "description": "above qian, the creative, heaven / below ken, keeping still mountain",
+        "lines": "666677"
+    },
+    "666766": {
+        "name": "Xu (需)",
+        "number": "05",
+        "meaning": "Meaning data not found in source",
+        "image": "Heaven above, the lake below: The image of treading. Thus the superior man discriminates between high and low, and thereby fortifies the thinking of the people.",
+        "judgment": "Treading. Treading upon the tail of the tiger. It does not bite the man. Success.",
+        "description": "Above Qian, the creative, heaven / below tui, the joyous, lake",
+        "lines": "666766"
+    },
+    "666767": {
+        "name": "Song (訟)",
+        "number": "06",
+        "meaning": "Meaning data not found in source",
+        "image": "Heaven and water go their opposite ways. The image of conflict. Thus in all his transactions the superior man carefully considers the beginning.",
+        "judgment": "Conflict. You are sincere and are being obstructed. A cautious halt halfway brings good fortune. Going through to the end brings misfortune. It furthers one to see the great man. It does not further one to cross the great river.",
+        "description": "Above Qian, the creative, heaven / below kan, the abysmal, water",
+        "lines": "666767"
+    },
+    "666776": {
+        "name": "Shi (師)",
+        "number": "07",
+        "meaning": "Meaning data not found in source",
+        "image": "Under the heaven thunder rolls: all things attain the natural state of innocence. Thus the kings of old, rich in virtue, and in harmony with the time, fostered and nourished all beings.",
+        "judgment": "Innocence. Supreme success. Perseverance further. If someone is not as he should be, he has misfortune, and it does not further him to undertake anything.",
+        "description": "above qian, the creative, heaven / below chen, the arousing, thunder",
+        "lines": "666776"
+    },
+    "666777": {
+        "name": "Bi (比)",
+        "number": "08",
+        "meaning": "Meaning data not found in source",
+        "image": "Heaven and earth do not unite: the image of standstill. Thus the superior man falls back upon his inner worth in order to escape the difficulties. He does not permit himself to be honored with revenue.",
+        "judgment": "Standstill. Evil people do not further the perseverance of the superior man. The great departs, the small approaches.",
+        "description": "above qian, the creative, heaven / below kun, the receptive, earth",
+        "lines": "666777"
+    },
+    "667666": {
+        "name": "Xiao Chu (小畜)",
+        "number": "09",
+        "meaning": "Meaning data not found in source",
+        "image": "The wind drives across heaven. The image of the taming power of the small. Thus the superior man refines the outward aspect of his nature.",
+        "judgment": "The taming power of the small has success. Dense clouds, no rain from our western region",
+        "description": "Above Sun, the gentle, wind / below qian, the creative, heaven",
+        "lines": "667666"
+    },
+    "667667": {
+        "name": "Lu (履)",
+        "number": "10",
+        "meaning": "Meaning data not found in source",
+        "image": "Winds following one upon the other: the image of the gently penetrating. Thus the superior man spreads his commands abroad and carries out his undertakings.",
+        "judgment": "The gentle. Success through what is small. It furthers one to have somewhere to go. It furthers one to see the great man.",
+        "description": "above sun, the gentle, wind / below sun, the gentle, wind",
+        "lines": "667667"
+    },
+    "667676": {
+        "name": "Tai (泰)",
+        "number": "11",
+        "meaning": "Meaning data not found in source",
+        "image": "Wind comes forth from fire: the image of the family. Thus the superior man has substance in his words and duration in his way of life.",
+        "judgment": "The family. The perseverance of the woman furthers.",
+        "description": "above sun, the gentle, wind / below li, the clinging, fire",
+        "lines": "667676"
+    },
+    "667677": {
+        "name": "Pi (否)",
+        "number": "12",
+        "meaning": "Meaning data not found in source",
+        "image": "On the mountain, a tree: the image of development. Thus the superior man abides in dignity and virtue, in order to improve the mores.",
+        "judgment": "Development. The maiden is given in marriage. Good fortune. Perseverance furthers.",
+        "description": "above sun, the gentle, wood / below ken, keeping still, mountain",
+        "lines": "667677"
+    },
+    "667766": {
+        "name": "Tong Ren (同人)",
+        "number": "13",
+        "meaning": "Meaning data not found in source",
+        "image": "Wind over the lake: the image of inner truth. Thus the superior man discusses criminal cases in order to delay executions.",
+        "judgment": "Inner truth. Pigs and fishes. Good fortune. It furthers one to cross the great water. Perseverance furthers.",
+        "description": "above sun, the gentle, wind / below tui, the joyous, lake",
+        "lines": "667766"
+    },
+    "667767": {
+        "name": "Da You (大有)",
+        "number": "14",
+        "meaning": "Meaning data not found in source",
+        "image": "The wind drives over the water: the image of dispersion. Thus the kings of old sacrificed to the lord and built temples.",
+        "judgment": "Dispersion. Success. The king approaches his temple. It furthers one to cross the great water. Perseverance furthers.",
+        "description": "above sun, the gentle, wind / below kan, the abysmal, water",
+        "lines": "667767"
+    },
+    "667776": {
+        "name": "Qian (謙)",
+        "number": "15",
+        "meaning": "Meaning data not found in source",
+        "image": "Wind and thunder: the image of increase. Thus the superior man: if he sees good, he imitates it. If he has faults, he rids himself of them.",
+        "judgment": "Increase. It furthers one to undertake something. It furthers one to cross the great water.",
+        "description": "above sun, the gentle, wind / below chen, the arousing, thunder",
+        "lines": "667776"
+    },
+    "667777": {
+        "name": "Yu (豫)",
+        "number": "16",
+        "meaning": "Meaning data not found in source",
+        "image": "The wind blows over the earth: the image of contemplation. Thus the kings of old visited the regions of the world, contemplated the people, and gave them instruction.",
+        "judgment": "Contemplation. The ablution has been made, but not yet the offering. Full of trust they look up to him.",
+        "description": "above sun, the gentle, wind / below kun, the receptive, earth",
+        "lines": "667777"
+    },
+    "676666": {
+        "name": "Sui (隨)",
+        "number": "17",
+        "meaning": "Meaning data not found in source",
+        "image": "Fire in heaven above: The image of possession in great measure. Thus the superior man curbs evil and furthers good.",
+        "judgment": "Possession in great measure. Supreme success.",
+        "description": "Above li, the clinging, flame / below qian, the creative, heaven",
+        "lines": "676666"
+    },
+    "676667": {
+        "name": "Gu (蠱)",
+        "number": "18",
+        "meaning": "Meaning data not found in source",
+        "image": "Fire over wood: the image of the cauldron. Thus the superior man consolidates his fate by making his position correct.",
+        "judgment": "The Cauldron. Supreme good fortune. Success.",
+        "description": "above li, the clinging, fire / below sun, the gentle, wood",
+        "lines": "676667"
+    },
+    "676676": {
+        "name": "Lin (臨)",
+        "number": "19",
+        "meaning": "Meaning data not found in source",
+        "image": "That which is bright rises twice: the image of fire. Thus the great man, by perpetuating this brightness, illumines the four quarters of the world.",
+        "judgment": "The clinging. It brings success. Care of the cow brings good fortune.",
+        "description": "above li, the clinging, fire / below li, the clinging, fire",
+        "lines": "676676"
+    },
+    "676677": {
+        "name": "Guan (觀)",
+        "number": "20",
+        "meaning": "Meaning data not found in source",
+        "image": "Fire on the mountain: the image of the wanderer. Thus the superior man is clear-minded and cautious in imposing penalties, and protracts no lawsuits.",
+        "judgment": "The wanderer. Success through smallness. Perseverance brings good fortune to the wanderer.",
+        "description": "above li, the clinging, fire / below ken, keeping still, mountain",
+        "lines": "676677"
+    },
+    "676766": {
+        "name": "Shi He (噬嗑)",
+        "number": "21",
+        "meaning": "Meaning data not found in source",
+        "image": "Above, fire. Below, the lake: the image of opposition. Thus amid all fellowship the superior man retains his individuality.",
+        "judgment": "Opposition. In small matters, good fortune",
+        "description": "above li, the clinging, fire / below tui, the joyous, lake",
+        "lines": "676766"
+    },
+    "676767": {
+        "name": "Bi (賁)",
+        "number": "22",
+        "meaning": "Meaning data not found in source",
+        "image": "Fire over water: the image of the condition before transition. Thus the superior man is careful in the differentiation of things, so that each finds its place.",
+        "judgment": "Before completion. Success. But if the little fox, after nearly completing the crossing, gets his tail in the water, there is nothing that would further.",
+        "description": "above li, the clinging, fire / below kan, the abysmal, water",
+        "lines": "676767"
+    },
+    "676776": {
+        "name": "Bo (剝)",
+        "number": "23",
+        "meaning": "Meaning data not found in source",
+        "image": "Thunder and lightning: the image of biting through. Thus the kings of former times made firm the laws through clearly defined penalties.",
+        "judgment": "Biting through has success. It is favorable to let justice be administered.",
+        "description": "above li, the clinging, fire / below chen, the arousing, thunder",
+        "lines": "676776"
+    },
+    "676777": {
+        "name": "Fu (復)",
+        "number": "24",
+        "meaning": "Meaning data not found in source",
+        "image": "The sun rises over the earth: the image of progress. Thus the superior man himself brightens his bright virtue.",
+        "judgment": "Progress. The powerful prince is honored with horses in large numbers. In a single day he is granted audience three times.",
+        "description": "above li, the clinging, fire / below kun, the receptive, earth",
+        "lines": "676777"
+    },
+    "677666": {
+        "name": "Wu Wang (无妄)",
+        "number": "25",
+        "meaning": "Meaning data not found in source",
+        "image": "Heaven within the mountain: the image of the taming power of the great. Thus the superior man acquaints himself with many sayings of antiquity and many deeds of the past, in order to strengthen his character thereby.",
+        "judgment": "The taming power of the great. Perseverance furthers. Not eating at home brings good fortune. It furthers one to cross the great water.",
+        "description": "above ken, keeping still, mountain / below qian, the creative, heaven",
+        "lines": "677666"
+    },
+    "677667": {
+        "name": "Da Chu (大畜)",
+        "number": "26",
+        "meaning": "Meaning data not found in source",
+        "image": "The wind blows low on the mountain: the image of decay. Thus the superior man stirs up the people and strengthens their spirit.",
+        "judgment": "Work on what has been spoiled has supreme success. It furthers one to cross the great water. Before the starting point, three days. After the starting point, three days",
+        "description": "above ken, keeping still, mountain / below sun, the gentle, wind",
+        "lines": "677667"
+    },
+    "677676": {
+        "name": "Yi (頤)",
+        "number": "27",
+        "meaning": "Meaning data not found in source",
+        "image": "Fire at the foot of the mountain: the image of grace. Thus does the superior man proceed when clearing up current affairs. But he dare not decide controversial issues in this way.",
+        "judgment": "Grace has success. In small matters it is favorable to undertake something.",
+        "description": "above ken, keeping still, mountain / below li, the clinging, fire",
+        "lines": "677676"
+    },
+    "677677": {
+        "name": "Da Guo (大過)",
+        "number": "28",
+        "meaning": "Meaning data not found in source",
+        "image": "Mountains standing close together: the image of keeping still. Thus the superior man does not permit his thoughts to go beyond his situation.",
+        "judgment": "Keeping still. Keeping his back still so that he no longer feels his body. He goes into his courtyard and does not see his people. No blame.",
+        "description": "above ken, keeping still, mountain / below ken, keeping still, mountain",
+        "lines": "677677"
+    },
+    "677766": {
+        "name": "Kan (坎)",
+        "number": "29",
+        "meaning": "Meaning data not found in source",
+        "image": "At the foot of the mountain, the lake: the image of decrease. Thus the superior man controls his anger and restrains his instincts.",
+        "judgment": "Decrease combined with sincerity brings about supreme good fortune without blame. One may be persevering in this. It furthers one to undertake something. How is this to be carried out? One may use two small bowls for the sacrifice.",
+        "description": "above ken, keeping still, mountain / below tui, the joyous, lake",
+        "lines": "677766"
+    },
+    "677767": {
+        "name": "Li (離)",
+        "number": "30",
+        "meaning": "Meaning data not found in source",
+        "image": "A spring wells up at the foot of the mountain. The image of youth. Thus the superior man fosters his character by thoroughness in all that he does.",
+        "judgment": "Youthful folly has success. It is not I who seek the young fool, the young fool seeks me. At the first oracle I inform him. If he asks two or three times, it is importunity. If he importunes, I give him no information. Perseverance furthers.",
+        "description": "Above Ken, Keeping still, mountain / below kan, the abysmal, water",
+        "lines": "677767"
+    },
+    "677776": {
+        "name": "Xian (咸)",
+        "number": "31",
+        "meaning": "Meaning data not found in source",
+        "image": "At the foot of the mountain, thunder: the image of providing nourishment. Thus the superior man is careful of his words and temperate in eating and drinking.",
+        "judgment": "The corners of the mouth. Perseverance brings good fortune. Pay heed to the providing of nourishment and to what a man seeks to fill his own mouth with.",
+        "description": "above ken, keeping still, mountain / below chen, the arousing, thunder",
+        "lines": "677776"
+    },
+    "677777": {
+        "name": "Heng (恆)",
+        "number": "32",
+        "meaning": "Meaning data not found in source",
+        "image": "The mountain rests on the earth: the image of splitting part. Thus those above can ensure their position only by giving generously to those below.",
+        "judgment": "Splitting apart. It does not further one to go anywhere.",
+        "description": "above ken, keeping still, mountain / below kun, the receptive, earth",
+        "lines": "677777"
+    },
+    "766666": {
+        "name": "Dun (遯)",
+        "number": "33",
+        "meaning": "Meaning data not found in source",
+        "image": "The lake has risen up to heaven: the image of breakthrough. Thus the superior man dispenses riches downward and refrains from resting on his virtue.",
+        "judgment": "Breakthrough. One must resolutely make the matter known at the court of the king. It must be announced truthfully. Danger. It is necessary to notify one's own city. It does not further to resort to arms. It furthers one to undertake something.",
+        "description": "above tui, the joyous, lake / below qian, the creative, heaven",
+        "lines": "766666"
+    },
+    "766667": {
+        "name": "Da Zhuang (大壯)",
+        "number": "34",
+        "meaning": "Meaning data not found in source",
+        "image": "The lake rises above the trees: the image of preponderance of the great. Thus the superior man, when he stands alone, is unconcerned, and if he has to renounce the world, he is undaunted.",
+        "judgment": "Preponderance of the great. The ridgepole sags to the breaking point. It furthers one to have somewhere to go. Success.",
+        "description": "above tui, the joyous, lake / below sun, the gentle, wood",
+        "lines": "766667"
+    },
+    "766676": {
+        "name": "Jin (晉)",
+        "number": "35",
+        "meaning": "Meaning data not found in source",
+        "image": "Fire in the lake: the image of revolution. Thus the superior man sets the calendar in order and makes the seasons clear.",
+        "judgment": "Revolution. On your own day you are believed. Supreme success. Furthering through perseverance. Remorse disappears.",
+        "description": "above tui, the joyous, lake / below li, the clinging, fire",
+        "lines": "766676"
+    },
+    "766677": {
+        "name": "Ming Yi (明夷)",
+        "number": "36",
+        "meaning": "Meaning data not found in source",
+        "image": "A lake on the mountain: the image of influence. Thus the superior man encourages people to approach him by his readiness to receive them.",
+        "judgment": "Influence. Success. To take a maiden to wife brings good fortune.",
+        "description": "above tui, the joyous, lake / below ken, keeping still, mountain",
+        "lines": "766677"
+    },
+    "766766": {
+        "name": "Jia Ren (家人)",
+        "number": "37",
+        "meaning": "Meaning data not found in source",
+        "image": "Lakes resting one on the other: the image of the joyous. Thus the superior man joins with his friends for discussion and practice.",
+        "judgment": "The joyous. Success. Perseverance is favorable.",
+        "description": "above tui, the joyous, lake / below tui, the joyous, lake",
+        "lines": "766766"
+    },
+    "766767": {
+        "name": "Kui (睽)",
+        "number": "38",
+        "meaning": "Meaning data not found in source",
+        "image": "There is no water in the lake: the image of exhaustion. Thus the superior man stakes his life on following his will.",
+        "judgment": "Oppression. Success. Perseverance. The great man brings about good fortune. No blame. When one has something to say, it is not believed.",
+        "description": "above tui, the joyous, lake / below kan, the abysmal, water",
+        "lines": "766767"
+    },
+    "766776": {
+        "name": "Jian (蹇)",
+        "number": "39",
+        "meaning": "Meaning data not found in source",
+        "image": "Thunder in the middle of the lake: the image of following. Thus the superior man at nightfall goes indoors for rest and recuperation.",
+        "judgment": "Following has supreme success. Perseverance furthers. No blame.",
+        "description": "above tui, the joyous, lake / below chen, the arousing, thunder",
+        "lines": "766776"
+    },
+    "766777": {
+        "name": "Xie (解)",
+        "number": "40",
+        "meaning": "Meaning data not found in source",
+        "image": "Over the earth, the lake: the image of gathering together. Thus the superior man renews his weapons in order to meet the unforeseen.",
+        "judgment": "Gathering together. Success. The king approaches his temple. It furthers one to see the great man. This brings success. Perseverance furthers. To bring great offerings creates good fortune. It furthers one to undertake something",
+        "description": "above tui, the joyous, lake / below kun, the receptive, earth",
+        "lines": "766777"
+    },
+    "767666": {
+        "name": "Sun (損)",
+        "number": "41",
+        "meaning": "Meaning data not found in source",
+        "image": "Clouds rise up to heaven. The image of waiting. Thus the superior man eats and drinks, is joyous and of good cheer.",
+        "judgment": "Waiting. If you are sincere, you have light and success. Perseverance brings good fortune. It furthers one to cross the great water.",
+        "description": "Above Kan, the abysmal, water / below qian, the creative, heaven",
+        "lines": "767666"
+    },
+    "767667": {
+        "name": "Yi (益)",
+        "number": "42",
+        "meaning": "Meaning data not found in source",
+        "image": "Water over wood: the image of the well. Thus the superior man encourages the people at their work, and exhorts them to help one another.",
+        "judgment": "The well. The town may be changed, but the well cannot be changed. It neither decreases nor increases. They come and go and draw from the well. If one gets down almost to the water and the rope does not go all the way, or the jug breaks, it brings misfortune.",
+        "description": "above kan, the abysmal, water / below sun, the gentle, wood",
+        "lines": "767667"
+    },
+    "767676": {
+        "name": "Guai (夬)",
+        "number": "43",
+        "meaning": "Meaning data not found in source",
+        "image": "Water over fire: the image of the condition in after completion. Thus the superior man takes though of misfortune and arms himself against it in advance.",
+        "judgment": "After completion. Success in small matters. Perseverance furthers. At the beginning good fortune, at the end disorder.",
+        "description": "above kan, the abysmal, water / below li, the clinging, fire",
+        "lines": "767676"
+    },
+    "767677": {
+        "name": "Gou (姤)",
+        "number": "44",
+        "meaning": "Meaning data not found in source",
+        "image": "Water on the mountain: the image of obstruction. Thus the superior man turns his attention to himself and molds his character.",
+        "judgment": "Obstruction. The southwest furthers. The northeast does not further. It furthers one to see the great man. Perseverance brings good fortune.",
+        "description": "above kan, the abysmal, water / below ken, keeping still, mountain",
+        "lines": "767677"
+    },
+    "767766": {
+        "name": "Cui (萃)",
+        "number": "45",
+        "meaning": "Meaning data not found in source",
+        "image": "Water over the lake: the image of limitation. Thus the superior man creates number and measure, and examines the nature of virtue and correct conduct.",
+        "judgment": "Limitation. Success. Galling limitation must not be persevered in.",
+        "description": "above kan, the abysmal, water / below tui, the joyous, lake",
+        "lines": "767766"
+    },
+    "767767": {
+        "name": "Sheng (升)",
+        "number": "46",
+        "meaning": "Meaning data not found in source",
+        "image": "Water flows on uninterruptedly and reaches its goal: the image of the abysmal repeated. Thus the superior man walks in lasting virtue and carries on the business of teaching.",
+        "judgment": "The abysmal repeated. If you are sincere, you have success in your heart, and whatever you do succeeds.",
+        "description": "above kan, the abysmal, water / below kan, the abysmal, water",
+        "lines": "767767"
+    },
+    "767776": {
+        "name": "Kun (困)",
+        "number": "47",
+        "meaning": "Meaning data not found in source",
+        "image": "Clouds and thunder. The image of difficulty at the beginning. Thus the superior man brings order out of confusion",
+        "judgment": "Difficulty at the beginning works supreme success, furthering through perseverance. Nothing should be undertaken. It furthers one to appoint helpers.",
+        "description": "Above Kan, the Abysmal, Water / Below Chen, the Arousing, Thunder",
+        "lines": "767776"
+    },
+    "767777": {
+        "name": "Jing (井)",
+        "number": "48",
+        "meaning": "Meaning data not found in source",
+        "image": "On the earth is water: The image of holding together. Thus the kings of antiquity bestowed the different states as fiefs and cultivated friendly relations with the feudal lords.",
+        "judgment": "Holding together brings good fortune. Inquire of the oracle again whether you possess sublimity, contancy, and perseverance; then there is no blame. Those who are uncertain gradually join. Whoever comes too late meets with misfortune",
+        "description": "Above Kan, the abysmal, water / below kun, the receptive, earth",
+        "lines": "767777"
+    },
+    "776666": {
+        "name": "Ge (革)",
+        "number": "49",
+        "meaning": "Meaning data not found in source",
+        "image": "Thunder in heaven above: the image of the power of the great. Thus the superior man does not tread upon paths that do not accord with established order.",
+        "judgment": "The power of the great. Perseverance furthers.",
+        "description": "above chen, the arousing, thunder / below qian, the creative, heaven",
+        "lines": "776666"
+    },
+    "776667": {
+        "name": "Ding (鼎)",
+        "number": "50",
+        "meaning": "Meaning data not found in source",
+        "image": "Thunder and wind: the image of duration. Thus the superior man stands firm and does not change what has direction.",
+        "judgment": "Duration. Success. No blame. Perseverance furthers. It furthers one to have somewhere to go.",
+        "description": "above chen, the arousing, thunder / below sun, the gentle, wind",
+        "lines": "776667"
+    },
+    "776676": {
+        "name": "Zhen (震)",
+        "number": "51",
+        "meaning": "Meaning data not found in source",
+        "image": "Both thunder and lighting come: the image of abundance. Thus the superior man decides lawsuits and carries out punishments.",
+        "judgment": "Abundance has success. The king attains abundance. Be not sad. Be like the sun at midday.",
+        "description": "above chen, the arousing, thunder / below li, the clinging, fire",
+        "lines": "776676"
+    },
+    "776677": {
+        "name": "Gen (艮)",
+        "number": "52",
+        "meaning": "Meaning data not found in source",
+        "image": "Thunder on the mountain: the image of the preponderance of the small. Thus in his conduct the superior man gives preponderance to reverence. In bereavement he gives preponderance to grief. In his expenditures he gives preponderance to thrift.",
+        "judgment": "Preponderance of the small. Success. Perseverance furthers. Small things may be done, great things should not be done. The flying bird bringts the message: it is not well to strive upward, it is well to remain below. Great good fortune.",
+        "description": "above chen, the arousing, thunder / below ken, keeping still, mountain",
+        "lines": "776677"
+    },
+    "776766": {
+        "name": "Jian (漸)",
+        "number": "53",
+        "meaning": "Meaning data not found in source",
+        "image": "Thunder over the lake: the image of the marrying maiden. Thus the superior man understands the transitory in the light of the eternity of the end.",
+        "judgment": "The marrying maiden. Undertakings bring misfortune. Nothing that would further.",
+        "description": "above chen, the arousing, thunder / below tui, the joyous, lake",
+        "lines": "776766"
+    },
+    "776767": {
+        "name": "Gui Mei (歸妹)",
+        "number": "54",
+        "meaning": "Meaning data not found in source",
+        "image": "Thunder and rain set in: the image of deliverance. Thus the superior man pardons mistakes and forgives misdeeds.",
+        "judgment": "Deliverance. The southwest furthers. If there is no longer anything where one has to go, return brings good fortune. If there is still something where one has to go, hastening brings good fortune.",
+        "description": "above chen, the arousing, thunder / below kan, the abysmal, water",
+        "lines": "776767"
+    },
+    "776776": {
+        "name": "Feng (豐)",
+        "number": "55",
+        "meaning": "Meaning data not found in source",
+        "image": "Thunder repeated: the image of shock. Thus in fear and trembling the superior man sets his life in order and examines himself.",
+        "judgment": "Shock brings success. Shock comes-oh, oh! Laughing words-ha, ha! The shock terrifies for a hundred miles, and he does not let fall the sacrificial spoon and chalice.",
+        "description": "above chen, the arousing, thunder / below chen, the arousing, thunder",
+        "lines": "776776"
+    },
+    "776777": {
+        "name": "Lu (旅)",
+        "number": "56",
+        "meaning": "Meaning data not found in source",
+        "image": "Thunder comes resounding out of the earth: the image of enthusiasm. Thus the ancient kings made music in order to honor merit, and offered it with splendor to the supreme deity, inviting their ancestors to be present.",
+        "judgment": "Enthusiasm. It furthers one to install helpers and to set armies marching.",
+        "description": "above chen, the arousing, thunder / below kun, the receptive, earth",
+        "lines": "776777"
+    },
+    "777666": {
+        "name": "Sun (巽)",
+        "number": "57",
+        "meaning": "Meaning data not found in source",
+        "image": "Heaven and earth unite: the image of peace. Thus the ruler divides and completes the course of heaven and earth; he furthers and regulates the gifts of heaven and earth, and so aids the people",
+        "judgment": "Peace. The small departs, the great approaches. Good fortune. Success.",
+        "description": "Above Kun, the receptive, earth / below qian, the creative, heaven",
+        "lines": "777666"
+    },
+    "777667": {
+        "name": "Dui (兌)",
+        "number": "58",
+        "meaning": "Meaning data not found in source",
+        "image": "Within the earth, wood grows: the image of pushing upward. Thus the superior man of devoted character heaps up small things in order to achieve something high and great.",
+        "judgment": "Pushing upward has supreme success. One must see the great man. Fear not. Departure toward the south brings good fortune.",
+        "description": "above kun, the receptive, earth / below sun, the gentle, wood",
+        "lines": "777667"
+    },
+    "777676": {
+        "name": "Huan (渙)",
+        "number": "59",
+        "meaning": "Meaning data not found in source",
+        "image": "The light has sunk into the earth: the image of darkening of the light. Thus does the superior man live with the great mass: he veils his light, yet it still shines.",
+        "judgment": "Darkening of the light. In adversity it furthers one to be persevering.",
+        "description": "above kun, the receptive, earth / below li, the clinging, fire",
+        "lines": "777676"
+    },
+    "777677": {
+        "name": "Jie (節)",
+        "number": "60",
+        "meaning": "Meaning data not found in source",
+        "image": "Within the earth, a mountain: the image of modesty. Thus the superior man reduces that which is too much, and augments that which is too little. He weighs things and makes them equal.",
+        "judgment": "Modesty creates success. The superior man carries things through.",
+        "description": "above kun, the receptive, earth / below ken, keeping still, mountain",
+        "lines": "777677"
+    },
+    "777766": {
+        "name": "Zhong Fu (中孚)",
+        "number": "61",
+        "meaning": "Meaning data not found in source",
+        "image": "The earth above the lake: the image of approach. Thus the superior man is inexhaustable in his will to teach, and without limits in his tolerance and protection of the people.",
+        "judgment": "Approach has supreme success. Perseverance furthers. When the eighth month comes, there will be misfortune.",
+        "description": "above kun, the receptive, earth / below tui, the joyous, lake",
+        "lines": "777766"
+    },
+    "777767": {
+        "name": "Xiao Guo (小過)",
+        "number": "62",
+        "meaning": "Meaning data not found in source",
+        "image": "In the middle of the earth is water: The image of the army. Thus the superior man increases his masses by generosity toward the people.",
+        "judgment": "The army. The army needs perseverance and a strong man. Good fortune without blame.",
+        "description": "Above Kun, the receptive, earth / below kan, the abysmal, water",
+        "lines": "777767"
+    },
+    "777776": {
+        "name": "Ji Ji (既濟)",
+        "number": "63",
+        "meaning": "Meaning data not found in source",
+        "image": "Thunder within the earth: the image of the turning point. Thus the kings of antiquity closed the passes at the time of solstice. Merchants and strangers did not go about, and the ruler did not travel through the provinces.",
+        "judgment": "Return. Success. Going out and coming in without error. Friends come without blame. To and fro goes the way. On the seventh day comes return. It furthers one to have somewhere to go.",
+        "description": "above kun, the receptive, earth / below chen, the arousing, thunder",
+        "lines": "777776"
+    },
+    "777777": {
+        "name": "Wei Ji (未濟)",
+        "number": "64",
+        "meaning": "Meaning data not found in source",
+        "image": "The earth's condition is receptive devotion. Thus the superior man who has breadth of chracter carries the outer world.",
+        "judgment": "The Receptive brings about sublime success, furthering through the perseverance of a mare. If the superior man untertakes something and tries to lead, he goes astray. But if he follows, he finds guidance. It is favorable to find friends in the west and south, to forego friends in the east and north. Quiet perseverance brings good fortune.",
+        "description": "Description of Hexagram 2",
+        "lines": "777777"
+    }
+}

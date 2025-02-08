@@ -21,22 +21,12 @@ function displayHexagram(hexagram) {
 
 // Retrieve hexagram interpretation or provide a default fallback
 function getInterpretation(hexagram, interpretations) {
-    const interpretationData = interpretations[hexagram];
-    if (interpretationData) {
-        return {
-            hexagram: interpretationData.name || "Unknown Hexagram Name", // Use name from JSON
-            image: interpretationData.image || "Unknown Image",
-            judgment: interpretationData.judgment || "Unknown Judgment",
-            description: interpretationData.description || "Unknown Description"
-        };
-    } else {
-        return {
-            hexagram: "Unknown Hexagram",
-            image: "Unknown Image",
-            judgment: "Unknown Judgment",
-            description: "Unknown Description"
-        };
-    }
+    return interpretations[hexagram] || {
+        hexagram: "Unknown Hexagram",
+        image: "Unknown Image",
+        judgment: "Unknown Judgment",
+        description: "Unknown Description"
+    };
 }
 
 document.addEventListener("DOMContentLoaded", async () => {
