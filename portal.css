@@ -1,0 +1,230 @@
+
+
+@font-face {
+  font-family: "hacked";
+	src: url(/fonts/hacked.ttf);
+}
+
+
+@font-face {
+  font-family: "dos";
+	src: url(/fonts/dos.ttf);
+}
+
+@font-face {
+  font-family: "nova";
+	src: url(/fonts/NovaMono-Regular.ttf);
+}
+
+@font-face {
+  font-family: "pixel";
+	src: url(/fonts/pixel.ttf);
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Base styling */
+body {
+    font-family: "pixel", monospace; /* Consider using a cyberpunk-style font */
+    display: flex;
+    flex-direction: column;
+    background-color: #0a0a0a; /* Dark background for a cyberpunk feel */
+    background-image: url("/img/num.gif");
+    background-repeat: repeat;
+    color: #c0c0c0; /* Light text color for contrast */
+    margin: 0 auto;
+    padding: 0 15px; /* Adds 15px padding to the left and right */
+    max-width: 80%;
+}
+
+a {
+    color: #39ff14; /* Neon green for links */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0099; /* Bright pink for hover state */
+    text-decoration: underline;
+}
+
+/* Sticky Header */
+header {
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0; /* Stick to the top */
+    z-index: 1000; /* Ensures it stays on top */
+}
+
+/* Header styling */
+header {
+    font-family: "hacked", sans-serif; /* Consider using a cyberpunk-style font */
+    background-color: #121212;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    color: #ff0099; /* Bright pink for main heading */
+    margin: 0;
+}
+
+header p {
+    color: #39ff14; /* Neon green for subtext */
+}
+
+/* Main content styling */
+main {
+    padding: 20px;
+    background-color: black;
+    border-color: magenta;
+    border-radius: 10px;
+    border-width: 2px;
+    flex: 1;
+    position: relative;
+    left: -100vw; /* Start the main content off the screen */
+    animation: slideInMain 0.7s forwards; /* Slide in animation */
+}
+
+/* Keyframes for sliding in */
+@keyframes slideInMain {
+    to {
+        left: 0; /* Slide to the original position */
+    }
+}
+
+/* Scrollable Main Section */
+main {
+    overflow-y: auto; /* Allows vertical scrolling if content overflows */
+    padding-bottom: 60px; /* Adjust based on footer height to avoid overlap */
+}
+
+h2 {
+    font-family: "hacked", sans-serif; /* Consider using a cyberpunk-style font */
+    color: #00ffff; /* Cyan for secondary headings */
+}
+
+/* Link list styling */
+.link-list details {
+    font-family: "pixel";
+    background-color: #1c1c1c;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #333;
+}
+
+.link-list summary {
+    color: #ff6600; /* Bright orange for summaries */
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.link-list ul {
+    font-family: "pixel";
+    list-style-type: square;
+}
+
+.link-list li {
+    padding: 5px 0;
+}
+
+/* Footer styling */
+footer {
+    background-color: #121212;
+    color: #c0c0c0;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Sticky Footer */
+footer {
+    bottom: 0; /* Stick to the bottom */
+    z-index: 1000; /* Ensures it stays on top */
+}
+
+.centered-image img {
+    max-width: 100px;
+    max-height: 100px;
+    height: auto; /* This ensures the image maintains its aspect ratio */
+    display: block; /* Aligns the image properly within the div */
+    margin: 0 auto; /* Centers the image */
+}
+
+#typewriter {
+    width: 480px; /* Adjust the width as needed */
+    height: 200px; /* Adjust the height as needed */
+    overflow: hidden; /* Hide the overflow text */
+    white-space: pre-wrap; /* To maintain spaces and line breaks */
+    border-right: 2px solid; /* Simulates the caret */
+    font-family: 'pixel'; /* Typewriter font */
+    margin: auto; /* Center the div if needed */
+    /* Add additional styling as needed */
+}
+
+@keyframes slideIn {
+    to {
+        left: 0; /* Slide in to the viewport */
+    }
+}
+
+/* Optional: Caret Blinking Effect */
+@keyframes blink-caret {
+    50% {
+        border-color: transparent;
+    }
+}
+#typewriter {
+    animation: blink-caret 1s step-end infinite;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #c0c0c0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.column {
+    width: 23%; /* Adjust as needed */
+}
+
+.column h2 {
+    font-size: 18px;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+.column ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.column ul li {
+    margin-bottom: 5px;
+}
+
+.column ul li a {
+    text-decoration: none;
+    color: #007bff;
+    transition: color 0.3s;
+}
+
+.column ul li a:hover {
+    color: #0056b3;

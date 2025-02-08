@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 clearInterval(blinkInterval);
                 typewriter.style.visibility = 'hidden'; // Hide text after blinking
             }
-        }, 777); // Adjust blink speed here
+        }, 100); // Adjust blink speed here
     }
 
     typeWriterEffect();
